@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Atividade ASP.NET.props" />
+</Project>
